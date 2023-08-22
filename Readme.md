@@ -20,8 +20,8 @@ Data mining is the study of efficiently finding structures and patterns in large
 # Linear Algebra Section
 * [CLA1: Introduction to Systems of Linear Equations](https://ugedugh-my.sharepoint.com/:b:/g/personal/poffei_st_ug_edu_gh/ERfPRnWon1ZMmoZ_WPNP8qgBQSfJOJuUxhT8H06YPl7qRw?e=DH0uZl)
 * [CLA2: Vectors, Matrices, and Determinants](https://ugedugh-my.sharepoint.com/:b:/g/personal/poffei_st_ug_edu_gh/EXUd5oqLnHFHnd1yElTCONUBH9G1azJMjIGw0sTSGpse6Q?e=1KaTc3)
-[CLA3: Triangular Systems of Equations: Forward and Back Substitution](https://ugedugh-my.sharepoint.com/:b:/g/personal/poffei_st_ug_edu_gh/EQaZZg7BP-NDk6_Y2ZS0UsIBArmsRgpfrCTyJHbNNDjskA?e=iwH1aT)
-[CLA4: Matrix Multiplication](https://ugedugh-my.sharepoint.com/:b:/g/personal/poffei_st_ug_edu_gh/EUb5_gDvTHpDlK__MuwH3oEBWFM6UDT05l2IsxLGgSTBFQ?e=64s6rw)
+* [CLA3: Triangular Systems of Equations: Forward and Back Substitution](https://ugedugh-my.sharepoint.com/:b:/g/personal/poffei_st_ug_edu_gh/EQaZZg7BP-NDk6_Y2ZS0UsIBArmsRgpfrCTyJHbNNDjskA?e=iwH1aT)
+* [CLA4: Matrix Multiplication](https://ugedugh-my.sharepoint.com/:b:/g/personal/poffei_st_ug_edu_gh/EUb5_gDvTHpDlK__MuwH3oEBWFM6UDT05l2IsxLGgSTBFQ?e=64s6rw)
 
 # Probablility Section
 
