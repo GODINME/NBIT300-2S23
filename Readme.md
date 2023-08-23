@@ -29,11 +29,13 @@ Data mining is the study of efficiently finding structures and patterns in large
 
 
 
-# Main Text Book
-[Computational Linear Algebra by Jessy Grizzle]()
-[Introduction to Probability for Data Science by Stanley Chan]()
-[Mathematical Foundation for Data Analysis by Prof. Jeff M. Phillips]()
-
-[Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeff Ullman]()
-[Foundations of Data Science by Avrim Blum, John Hopcroft and Ravindran Kannan]()
-[Mathematics for Machine Learning Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong]()
+#  Text Book
+* [Computational Linear Algebra by Jessy Grizzle]()
+* [Introduction to Applied Linear Algebra by Lieven Vandenberghe and Stephen P. Boyd]()
+* [Introduction to Probability for Data Science by Stanley Chan]()
+* [Mathematics for Machine Learning Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong]()
+* [Mathematical Foundation for Data Analysis by Prof. Jeff M. Phillips]()
+* [Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeff Ullman]()
+* [Foundations of Data Science by Avrim Blum, John Hopcroft and Ravindran Kannan]()
+* [Introduction to Data Mining by Pang-Ning Tan, Michael Steinbach, Anuj Karpatne, Vipin Kumar]()
+* [Pattern Recognition and Machine Learning by Christopher M. Bishop]()
